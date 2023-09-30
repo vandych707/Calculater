@@ -1,7 +1,4 @@
-// Online C compiler to run C program online
 #include <stdio.h>
-//#include <conio.h>
-
 int main() {
 	float a;
     float b;
